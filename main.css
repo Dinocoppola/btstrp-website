@@ -9,3 +9,15 @@
 .darkestBG {
 	background: #333;
 }
+
+
+
+
+.jumbotron {
+    margin-bottom: 0px;
+    height: 350px;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+  background: url('http://cdn-static.zdnet.com/i/story/70/00/016754/private-space-telescope-needs-your-help-to-get-off-the-ground.jpg') no-repeat center center;
+ background-position: center center;
+}
